@@ -21,7 +21,6 @@ Link to the live Project : https://telegram-ui-clone-q9im20zuq-ayushis-projects-
 - Fetches and displays messages within a chat
 - Supports scrolling with floating date indicators
 - Responsive design for desktop and mobile views
-- Dark and light theme toggle
 
 ## Technologies Used
 
