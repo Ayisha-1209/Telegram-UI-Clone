@@ -71,7 +71,6 @@ Once the application is running, you can:
 - View a list of chats fetched from the API.
 - Select a chat to view its messages.
 - Send messages within a chat (simulated).
-- Toggle between dark and light themes.
 
 ## Components
 
