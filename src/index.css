@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (max-width: 935px) {
+    .sidebar-hidden {
+      display: none;
+    }
+  }
+  
+  @media (min-width: 935px) {
+    .sidebar-min-width {
+      min-width: 420px;
+    }
+  }
+
+body{
+  overflow-y: hidden;
+}
+
+::-webkit-scrollbar{
+  width: 5px;
+}
+
+::-webkit-scrollbar-track{
+  background: #dadada;
+}
+::-webkit-scrollbar-thumb{
+  background: #878686f2;
+  border-radius: 10px;
+}
+
