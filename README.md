@@ -2,6 +2,8 @@
 
 This project is a clone of the Telegram UI, developed using ReactJS and styled with Tailwind CSS. The application fetches data from two special APIs to simulate chat and message functionality.
 
+Link to the live Project : https://telegram-ui-clone-q9im20zuq-ayushis-projects-deb3b39a.vercel.app/
+
 ## Table of Contents
 
 - [Features](#features)
